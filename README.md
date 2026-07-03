@@ -1,6 +1,6 @@
 # CMS GPT Website
 
-[中文](README_ZH.md) | English
+English | [中文](README_ZH.md)
 
 
 [![PHP](https://img.shields.io/badge/PHP-8.0+-purple.svg)](https://www.php.net/)
