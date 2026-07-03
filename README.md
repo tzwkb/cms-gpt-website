@@ -1,11 +1,10 @@
 # CMS GPT Website
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![PHP](https://img.shields.io/badge/PHP-runtime-777bb4.svg)](https://www.php.net/)
+[![Python](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org/)
+
 English | [中文](README_ZH.md)
-
-
-[![PHP](https://img.shields.io/badge/PHP-8.0+-purple.svg)](https://www.php.net/)
-[![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 A CMS-style web application with GPT integration for document processing and translation memory management.
 

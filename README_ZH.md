@@ -1,7 +1,9 @@
 # CMS GPT Website
 
-[English](README.md) | 中文
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![PHP](https://img.shields.io/badge/PHP-runtime-777bb4.svg)](https://www.php.net/)
 
+[English](README.md) | 中文
 
 ## 概览
 
